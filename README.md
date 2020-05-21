@@ -2,11 +2,11 @@
 Random number generator.
 
 
-#Resouce
+# Resource
 
 [link](https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/#0)
 
-#Finally the app looks like this
+# Finally the app looks like this
 
 ![alt text][logo]
 

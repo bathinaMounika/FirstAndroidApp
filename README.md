@@ -1,10 +1,10 @@
 # FirstAndroidApp
-Random number generator.
+Random number generator built in Kotlin.
 
 
 # Resource
 
-[link](https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/#0)
+[Build Your First Android App in Kotlin](https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/#0)
 
 # Finally the app looks like this
 

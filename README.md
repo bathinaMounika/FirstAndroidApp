@@ -8,6 +8,13 @@ Random number generator.
 
 # Finally the app looks like this
 
+## First Fragment
 ![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/bathinaMounika/FirstAndroidApp/master/sample.jpg "app photo"
+[logo]: https://raw.githubusercontent.com/bathinaMounika/FirstAndroidApp/master/sample.jpg "app's first fragment photo"
+
+## Second Fragment
+
+![alt text][logo]
+
+[logo]: https://raw.githubusercontent.com/bathinaMounika/FirstAndroidApp/master/second_fragment.jpg "app's second fragment photo"

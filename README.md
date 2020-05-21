@@ -9,4 +9,5 @@ Random number generator.
 #Finally the app looks like this
 
 ![alt text][logo]
+
 [logo]: https://raw.githubusercontent.com/bathinaMounika/FirstAndroidApp/master/sample.jpg "app photo"
